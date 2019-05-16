@@ -1,4 +1,4 @@
-# Computer-Systems-Labs-by-CMU
+# Computer-Systems-Labs
 
 There is a total 6 of them
 
